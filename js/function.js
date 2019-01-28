@@ -7,4 +7,5 @@ function addition (a,b) {
 	return a + b;
 }
 
+//Export so the testing module can use this
 module.exports = addition;
