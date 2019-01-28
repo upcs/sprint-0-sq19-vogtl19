@@ -1,1 +1,6 @@
+#Created by Langley Vogt
+#Declare langugae and the version of Node_js, stated in the instructions as 10
+
 language: node_js
+node_ js:
+ - "10"
